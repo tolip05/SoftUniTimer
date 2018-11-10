@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.deps.json
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.runtimeconfig.json
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.dll
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.pdb
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.dll
+C:\Users\Kosta\source\repos\pOLIMORFISM01\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.pdb
